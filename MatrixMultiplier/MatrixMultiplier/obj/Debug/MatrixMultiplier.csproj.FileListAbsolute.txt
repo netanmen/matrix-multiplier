@@ -1,0 +1,6 @@
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.exe.config
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.exe
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\bin\Debug\MatrixMultiplier.pdb
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.exe
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Debug\MatrixMultiplier.pdb
