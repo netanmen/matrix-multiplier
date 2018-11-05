@@ -4,3 +4,9 @@ C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPoo
 C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.csprojResolveAssemblyReference.cache
 C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.exe
 C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.pdb
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\bin\Release\MatrixMultiplier.exe.config
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.exe
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.pdb
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\bin\Release\MatrixMultiplier.exe
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\bin\Release\MatrixMultiplier.pdb
+C:\Users\netanelmendel\Documents\Visual Studio 2015\Projects\Portfolio\ThreadPool Matrix Multiplier\Master\matrix-multiplier\MatrixMultiplier\MatrixMultiplier\obj\Release\MatrixMultiplier.csprojResolveAssemblyReference.cache
